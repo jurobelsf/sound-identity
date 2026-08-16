@@ -54,16 +54,3 @@ The project is **currently in progress**. The main analytical framework has been
 
 Some of the code is therefore intentionally presented in its current research-development form. The scripts will be cleaned up, documented, and consolidated as the project progresses.
 
-## Repository Structure
-
-```text
-.
-├── code/
-│   ├── audio_processing/
-│   ├── feature_extraction/
-│   ├── statistical_analysis/
-│   └── modeling/
-│
-├── data/
-│
-└── README.md
